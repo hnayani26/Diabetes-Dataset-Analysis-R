@@ -5,4 +5,4 @@ This dataset at hand has been chosen from Kaggle : https://www.kaggle.com/code/a
 
 There is also a balanced dataset that is created from the original to compare the results.
 
-There is a PPT attached to simplify the findings of the paper.
+There is a PPT attached to simplify the findings of the tests.
